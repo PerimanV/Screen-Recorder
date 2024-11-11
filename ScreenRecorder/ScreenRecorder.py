@@ -5,7 +5,7 @@ import numpy as np
 #confirgure settings of recording
 resolution = (1920, 1080)
 codec = cv2.VideoWriter_fourcc(*"XVID")
-filename = "C:/Users/perim/Videos/PythonRecordings/Recording.avi"
+filename = "Recording.avi"
 fps = 20.0 #set to 20 fps because 60 fps seemed too fast in the end
 out = cv2.VideoWriter(filename, codec, fps, resolution)
 
