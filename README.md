@@ -6,4 +6,4 @@ Required:
 - pip install pyautogui
 - pip install opencv-python
 
-(Recording settings can be changed in the code, to sto recording press the 0 key)
+(Recording settings can be changed in the code, to stop recording press the 0 key)
